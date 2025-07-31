@@ -14,3 +14,6 @@ Get cryptocurrency price data with spring batch
 해당 기능은 정기적으로 수행되어야 한다 -> gitbut action, springBatch </br>
 인메모리 데이터 베이스는 사용할 수 없다 -> mysql 사용 </br>
 데이터베이스 조회 시에는 jpa와 querydsl을 사용한다 </br>
+
+
+![무제.001](src/main/resources/pictures/무제.001.jpeg)
