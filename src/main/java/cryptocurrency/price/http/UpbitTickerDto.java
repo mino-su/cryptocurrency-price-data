@@ -1,8 +1,13 @@
 package cryptocurrency.price.http;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 
 @Getter
+@AllArgsConstructor
+@NoArgsConstructor
 public class UpbitTickerDto {
 
     private String market;
